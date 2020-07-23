@@ -16,3 +16,5 @@
 #  Push the changes in your local repository to GitHub.
 
 # git push -f origin master
+
+#Finally removed need for user and password, using git and rsa keys 

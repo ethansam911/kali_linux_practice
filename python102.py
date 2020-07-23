@@ -52,7 +52,7 @@ print(letter.lower() in word.lower()) #Improved, case insensitive
 word_two = "Bingo"
 
 print(letter.lower() in word.lower()) and not (letter.lower() in word_two.lower())
-
+print("finished")
 #http://localhost:8000/
 
 
